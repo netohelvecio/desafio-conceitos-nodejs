@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="./public/gostack.png" width="320">
+  <img src="./public/gostack.png" />
 
-  ## Desafio 04: Conceitos do ReactJS
+  <h1>Conceitos de NodeJS</h1>
 </div>
 
 ## 🔖 Sobre
 
-Aplicação feita durante o defaio 03 do bootcamp da Rocketseat para fixar conceitos do NodeJS. API possibilita o cadatro, atualização, listagem e deleta repositórios além disso é possível dá like nos repositórios.
+Aplicação feita durante o defaio 03 do bootcamp da Rocketseat para fixar conceitos do NodeJS. API possibilita o cadatro, atualização, listagem e deleta repositórios e além disso é possível dá like nos repositórios.
 
 ## 📁 Repósitorios relacionados
 - [Frontend](https://github.com/netohelvecio/desafio-conceitos-reactjs)

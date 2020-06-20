@@ -6,11 +6,11 @@
 
 ## 🔖 Sobre
 
-Aplicação feita durante o defaio 03 do bootcamp da Rocketseat para fixar conceitos do NodeJS. API possibilita o cadatro, atualização, listagem e deleta repositórios e além disso é possível dá like nos repositórios.
+Aplicação feita durante o desafio 02 do bootcamp da Rocketseat para fixar conceitos do NodeJS. API possibilita o cadatro, atualização, listagem e deleta repositórios e além disso é possível dá like nos repositórios.
 
 ## 📁 Repósitorios relacionados
 - [Frontend](https://github.com/netohelvecio/desafio-conceitos-reactjs)
-- Mobile - Ainda em construção.
+- [Mobile](https://github.com/netohelvecio/desafio-conceitos-react-native)
 
 ## 💻: Tecnologias utilizadas
 

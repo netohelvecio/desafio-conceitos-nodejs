@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./public/gostack.png" />
 
-  <h1>Desafio 01: Conceitos do NodeJS</h1>
+  <h1>Desafio 02: Conceitos do NodeJS</h1>
 </div>
 
 ## 🔖 Sobre
